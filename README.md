@@ -6,3 +6,5 @@
 a\
 b\
 c
+
+<span style="color:blue">some *blue* text</span>.
