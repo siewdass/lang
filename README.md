@@ -16,3 +16,4 @@ c
 # text in gray
 @@ text in purple (and bold)@@
 ```
+<span style="color: green"> Some green text </span>
