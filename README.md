@@ -9,13 +9,14 @@ c
 
 <span style="color:blue">some *blue* text</span>.
 
-@@ text in purple (and bold)@@
+
 
 ```diff
 - text in red
 + text in green
 ! text in orange
 # text in gray
+text in purpl
 @@ text in purple (and bold)@@
 ```
 <span style="color: green"> Some green text </span>
